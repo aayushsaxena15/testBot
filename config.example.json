@@ -1,0 +1,15 @@
+{
+	"--NEED HELP?--": "--If you are unsure how to edit this config file, please visit the GitHub page for help.--",
+	"server": "irc.myserver.com",
+	"port": 6667,
+	"nickname": "Triviabot",
+	"password": "",
+	"account": "",
+	"channel": "#Trivia",
+	"admins": ["admin"],
+	"prefix": "!",
+
+	"--OPTIONAL CONFIGURATION--": "--You don't have to edit anything below here, but you can if you so wish.--",
+	"enabledtopics": ["all", "astronomy", "culture", "general", "geography", "history", "internet", "languages", "mathematics", "music", "politics", "literature", "biology", "inventions"],
+	"savepoints": false
+}
