@@ -1,7 +1,10 @@
 Installation:
 $ git clone https://github.com/catskittens/triviabot.git
+
 $ cd triviabot/
+
 $ cp config.example.json config.json
+
 $ python bot.py
 
 ```json
